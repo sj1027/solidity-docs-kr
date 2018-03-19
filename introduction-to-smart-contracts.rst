@@ -8,8 +8,8 @@ Introduction to Smart Contracts
 A Simple Smart Contract
 ***********************
 
-Let us begin with the most basic example. It is fine if you do not understand everything
-right now, we will go into more detail later.
+가장 기본적인 예제로부터 시작해보겠습니다. 지금 당장 모두 이해하지 못해도 괜찮습니다. 나중에 더 자세히 설명될 것입니다.
+
 
 Storage
 =======
